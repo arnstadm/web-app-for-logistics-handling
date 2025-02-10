@@ -1,0 +1,33 @@
+//login skjema med Node.js i backend og react frontend er herfra:
+
+https://github.com/ArjunAranetaCodes/MoreCodes-Youtube/tree/master/mern-mongodb-login-reg
+
+https://www.positronx.io/build-secure-jwt-token-based-authentication-api-with-node/#tc_6896_04
+
+https://morioh.com/p/a5882f38e6b6
+
+Validator:
+
+https://www.npmjs.com/package/simple-react-validator
+
+
+Installere dotenv for .env fila:
+
+npm install dotenv
+
+Reactstrap:
+
+npm install --save reactstrap react react-dom
+
+
+//Fremgangsmåte:
+
+npm install
+
+cd API 
+
+npm start
+
+cd API/client
+
+npm start
